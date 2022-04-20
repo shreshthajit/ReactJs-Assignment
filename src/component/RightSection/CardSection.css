@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+}
+ .btn{
+     background-color: blue;
+     
+ }
+li a {
+    /* display: block; */
+    /* color: green; */
+    /* text-align: left; */
+    /* padding: 16px; */
+    /* text-decoration: none; */
+}
+
+/* .card {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .card-img {
+    border: -1;
+} */
+
+/* .card-block {
+    border: 0;
+}
+
+.card-img-last {
+    order: 1;
+} */

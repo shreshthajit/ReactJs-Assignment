@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+}
+
+.container .nav-link:hover {
+    background-color: white;
+}
+
+.container .nav-link.active {
+    border-bottom-width: 2px;
+    border-bottom-color: blue;
+}

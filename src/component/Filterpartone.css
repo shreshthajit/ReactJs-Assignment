@@ -1,0 +1,11 @@
+.star-input label input{
+    display: none;
+}
+.star{
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+.card{
+    z-index: 0;
+}
